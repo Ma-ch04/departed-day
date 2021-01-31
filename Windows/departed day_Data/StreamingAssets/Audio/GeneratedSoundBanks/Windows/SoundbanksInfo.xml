@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/kiharamasato/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/1116_deverop/Unity Game Project/Unity Game Project_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/kiharamasato/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/1116_deverop/Unity Game Project/Unity Game Project_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/kiharamasato/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/1116_deverop/Unity Game Project/Unity Game Project_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/kiharamasato/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/1116_deverop/Unity Game Project/Unity Game Project_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="133642231" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\General</ObjectPath>
+			<ShortName>General</ShortName>
+			<Path>General.bnk</Path>
+			<IncludedEvents>
+				<Event Id="425528452" Name="adPost" ObjectPath="\Events\Default Work Unit\Motion\adPost" DurationType="OneShot" DurationMin="1.700000" DurationMax="1.700000"/>
+				<Event Id="2934282407" Name="CompOn" ObjectPath="\Events\Default Work Unit\Motion\CompOn" DurationType="OneShot" DurationMin="0.830271" DurationMax="0.830271"/>
+				<Event Id="2368844905" Name="Enter" ObjectPath="\Events\Default Work Unit\Motion\Enter" DurationType="OneShot" DurationMin="0.650884" DurationMax="0.650884"/>
+				<Event Id="1894362767" Name="Foot_Player" ObjectPath="\Events\Default Work Unit\Player\Foot_Player" DurationType="OneShot" DurationMin="0.921248" DurationMax="1.052857"/>
+				<Event Id="1425580747" Name="Printer" ObjectPath="\Events\Default Work Unit\Motion\Printer" DurationType="OneShot" DurationMin="6.131854" DurationMax="6.131854"/>
+				<Event Id="2902614501" Name="Ticket" ObjectPath="\Events\Default Work Unit\Motion\Ticket" DurationType="OneShot" DurationMin="0.382083" DurationMax="0.382083"/>
+				<Event Id="2970581085" Name="Type" ObjectPath="\Events\Default Work Unit\Motion\Type" DurationType="OneShot" DurationMin="2.246469" DurationMax="2.246469"/>
+				<Event Id="299065245" Name="Typeshot" ObjectPath="\Events\Default Work Unit\Motion\Typeshot" DurationType="OneShot" DurationMin="0.163501" DurationMax="0.286771"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="83130193" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow2_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="139774116" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow1_CF843444.wem</Path>
+				</File>
+				<File Id="166582785" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow6_CF843444.wem</Path>
+				</File>
+				<File Id="281735376" Language="SFX">
+					<ShortName>SE\SE_Printer_True.wav</ShortName>
+					<Path>SFX/SE/SE_Printer_True_CF843444.wem</Path>
+				</File>
+				<File Id="377454097" Language="SFX">
+					<ShortName>SE\SE_Comp_Typing.wav</ShortName>
+					<Path>SFX/SE/SE_Comp_Typing_58C217D0.wem</Path>
+				</File>
+				<File Id="413135420" Language="SFX">
+					<ShortName>SE_Comp_OneshotA.wav</ShortName>
+					<Path>SFX/SE_Comp_OneshotA_CF843444.wem</Path>
+				</File>
+				<File Id="437040072" Language="SFX">
+					<ShortName>SE_Comp_OneshotC.wav</ShortName>
+					<Path>SFX/SE_Comp_OneshotC_CF843444.wem</Path>
+				</File>
+				<File Id="445670231" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow4_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="467529610" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow4_CF843444.wem</Path>
+				</File>
+				<File Id="471168463" Language="SFX">
+					<ShortName>SE\SE_Post.wav</ShortName>
+					<Path>SFX/SE/SE_Post_CF843444.wem</Path>
+				</File>
+				<File Id="493920584" Language="SFX">
+					<ShortName>SE\SE_TicketGet.wav</ShortName>
+					<Path>SFX/SE/SE_TicketGet_CF843444.wem</Path>
+				</File>
+				<File Id="550352083" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow6_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="551794831" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow5_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="619749920" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow3_CF843444.wem</Path>
+				</File>
+				<File Id="632861619" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow6_CF843444.wem</Path>
+				</File>
+				<File Id="682854849" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow4_CF843444.wem</Path>
+				</File>
+				<File Id="720509746" Language="SFX">
+					<ShortName>SE_Comp_Enter.wav</ShortName>
+					<Path>SFX/SE_Comp_Enter_CF843444.wem</Path>
+				</File>
+				<File Id="804851681" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow2_CF843444.wem</Path>
+				</File>
+				<File Id="833780048" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow5_CF843444.wem</Path>
+				</File>
+				<File Id="853454814" Language="SFX">
+					<ShortName>SE\SE_Comp_Startup.wav</ShortName>
+					<Path>SFX/SE/SE_Comp_Startup_CF843444.wem</Path>
+				</File>
+				<File Id="913984714" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow2_CF843444.wem</Path>
+				</File>
+				<File Id="919541374" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow1_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="932081669" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow5_CF843444.wem</Path>
+				</File>
+				<File Id="949212842" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow3_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="977721558" Language="SFX">
+					<ShortName>SE_Comp_OneshotB.wav</ShortName>
+					<Path>SFX/SE_Comp_OneshotB_CF843444.wem</Path>
+				</File>
+				<File Id="989679381" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow1_CF843444.wem</Path>
+				</File>
+				<File Id="1059325031" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow3_CF843444.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="565529991" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\FInal</ObjectPath>
+			<ShortName>FInal</ShortName>
+			<Path>FInal.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1697683977" Name="DoorClosed" ObjectPath="\Events\Default Work Unit\Motion\DoorClosed" DurationType="OneShot" DurationMin="1.300975" DurationMax="1.300975"/>
+				<Event Id="1404805401" Name="DoorOpen" ObjectPath="\Events\Default Work Unit\Motion\DoorOpen" DurationType="OneShot" DurationMin="1.734399" DurationMax="1.734399"/>
+				<Event Id="1894362767" Name="Foot_Player" ObjectPath="\Events\Default Work Unit\Player\Foot_Player" DurationType="OneShot" DurationMin="0.921248" DurationMax="1.052857"/>
+				<Event Id="3802555985" Name="Ocean" ObjectPath="\Events\Default Work Unit\Ambient\Ocean" MaxAttenuation="100.000000" DurationType="Infinite"/>
+				<Event Id="3362966356" Name="ReciptLine" ObjectPath="\Events\Default Work Unit\Motion\ReciptLine" DurationType="OneShot" DurationMin="1.997460" DurationMax="1.997460"/>
+				<Event Id="1988112949" Name="ReturnLine" ObjectPath="\Events\Default Work Unit\Motion\ReturnLine" DurationType="OneShot" DurationMin="0.982426" DurationMax="0.982426"/>
+				<Event Id="4291330065" Name="SendLine" ObjectPath="\Events\Default Work Unit\Motion\SendLine" DurationType="OneShot" DurationMin="0.888662" DurationMax="0.888662"/>
+				<Event Id="533153887" Name="TrainStart" ObjectPath="\Events\Default Work Unit\Motion\TrainStart" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="30.666666" DurationMax="30.666666"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="64326928" Language="SFX">
+					<ShortName>Chapter4_SE_LINE.wav</ShortName>
+					<Path>SFX/Chapter4_SE_LINE_CF843444.wem</Path>
+				</File>
+				<File Id="83130193" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow2_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="139774116" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow1_CF843444.wem</Path>
+				</File>
+				<File Id="166582785" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow6_CF843444.wem</Path>
+				</File>
+				<File Id="208091338" Language="SFX">
+					<ShortName>Chapter6_SE_Door_Open.wav</ShortName>
+					<Path>SFX/Chapter6_SE_Door_Open_CF843444.wem</Path>
+				</File>
+				<File Id="210819274" Language="SFX">
+					<ShortName>Chapter4_SE_Cellular.wav</ShortName>
+					<Path>SFX/Chapter4_SE_Cellular_CF843444.wem</Path>
+				</File>
+				<File Id="445670231" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow4_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="467529610" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow4_CF843444.wem</Path>
+				</File>
+				<File Id="550352083" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow6_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="551794831" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow5_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="619749920" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow3_CF843444.wem</Path>
+				</File>
+				<File Id="632861619" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow6_CF843444.wem</Path>
+				</File>
+				<File Id="644861288" Language="SFX">
+					<ShortName>Chapter3_SE_Train_Start.wav</ShortName>
+					<Path>SFX/Chapter3_SE_Train_Start_CF843444.wem</Path>
+				</File>
+				<File Id="682854849" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow4_CF843444.wem</Path>
+				</File>
+				<File Id="756753155" Language="SFX">
+					<ShortName>Chapter6_SE_Door_Closed.wav</ShortName>
+					<Path>SFX/Chapter6_SE_Door_Closed_CF843444.wem</Path>
+				</File>
+				<File Id="804851681" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow2_CF843444.wem</Path>
+				</File>
+				<File Id="833780048" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow5_CF843444.wem</Path>
+				</File>
+				<File Id="851779573" Language="SFX">
+					<ShortName>ChapterAll_AN_Ocean.wav</ShortName>
+					<Path>SFX/ChapterAll_AN_Ocean_D79FB2B7.wem</Path>
+				</File>
+				<File Id="913984714" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow2_CF843444.wem</Path>
+				</File>
+				<File Id="919541374" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow1_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="932081669" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow5_CF843444.wem</Path>
+				</File>
+				<File Id="949212842" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow3_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="957977706" Language="SFX">
+					<ShortName>Chapter4_SE_LINE_SEND.wav</ShortName>
+					<Path>SFX/Chapter4_SE_LINE_SEND_CF843444.wem</Path>
+				</File>
+				<File Id="989679381" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow1_CF843444.wem</Path>
+				</File>
+				<File Id="1059325031" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow3_CF843444.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1062003645" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\TrainInside</ObjectPath>
+			<ShortName>TrainInside</ShortName>
+			<Path>TrainInside.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2934282407" Name="CompOn" ObjectPath="\Events\Default Work Unit\Motion\CompOn" DurationType="OneShot" DurationMin="0.830271" DurationMax="0.830271"/>
+				<Event Id="1894362767" Name="Foot_Player" ObjectPath="\Events\Default Work Unit\Player\Foot_Player" DurationType="OneShot" DurationMin="0.921248" DurationMax="1.052857"/>
+				<Event Id="3802555985" Name="Ocean" ObjectPath="\Events\Default Work Unit\Ambient\Ocean" MaxAttenuation="100.000000" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="83130193" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow2_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="139774116" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow1_CF843444.wem</Path>
+				</File>
+				<File Id="166582785" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow6_CF843444.wem</Path>
+				</File>
+				<File Id="445670231" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow4_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="467529610" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow4_CF843444.wem</Path>
+				</File>
+				<File Id="550352083" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow6_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="551794831" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow5_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="619749920" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow3_CF843444.wem</Path>
+				</File>
+				<File Id="632861619" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow6.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow6_CF843444.wem</Path>
+				</File>
+				<File Id="682854849" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow4.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow4_CF843444.wem</Path>
+				</File>
+				<File Id="804851681" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow2_CF843444.wem</Path>
+				</File>
+				<File Id="833780048" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow5_CF843444.wem</Path>
+				</File>
+				<File Id="851779573" Language="SFX">
+					<ShortName>ChapterAll_AN_Ocean.wav</ShortName>
+					<Path>SFX/ChapterAll_AN_Ocean_D79FB2B7.wem</Path>
+				</File>
+				<File Id="853454814" Language="SFX">
+					<ShortName>SE\SE_Comp_Startup.wav</ShortName>
+					<Path>SFX/SE/SE_Comp_Startup_CF843444.wem</Path>
+				</File>
+				<File Id="913984714" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow2.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow2_CF843444.wem</Path>
+				</File>
+				<File Id="919541374" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow1_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="932081669" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow5.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow5_CF843444.wem</Path>
+				</File>
+				<File Id="949212842" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow3_CF843444_C0BF6CB5.wem</Path>
+				</File>
+				<File Id="989679381" Language="SFX">
+					<ShortName>Footsteps\Concrete\Concrete_Slow1.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Concrete_Slow1_CF843444.wem</Path>
+				</File>
+				<File Id="1059325031" Language="SFX">
+					<ShortName>Footsteps\Wood\Wood_Slow3.wav</ShortName>
+					<Path>SFX/Footsteps/Wood/Wood_Slow3_CF843444.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2685756106" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Keep</ObjectPath>
+			<ShortName>Keep</ShortName>
+			<Path>Keep.bnk</Path>
+			<IncludedEvents>
+				<Event Id="412724365" Name="BGM" ObjectPath="\Events\Default Work Unit\Music\BGM" DurationType="Infinite"/>
+				<Event Id="3295294912" Name="BGM_Final" ObjectPath="\Events\Default Work Unit\Music\BGM_Final" DurationType="OneShot" DurationMin="25.263174" DurationMax="25.263174"/>
+				<Event Id="3802555985" Name="Ocean" ObjectPath="\Events\Default Work Unit\Ambient\Ocean" MaxAttenuation="100.000000" DurationType="Infinite"/>
+				<Event Id="3412057565" Name="Train" ObjectPath="\Events\Default Work Unit\Motion\Train" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="30.071920" DurationMax="30.071920"/>
+				<Event Id="1639368407" Name="TrainIdle" ObjectPath="\Events\Default Work Unit\Motion\TrainIdle" MaxAttenuation="100.000000" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="174893881" Language="SFX">
+					<ShortName>Chapter3_SE_Train_Stop.wav</ShortName>
+					<Path>SFX/Chapter3_SE_Train_Stop_CF843444.wem</Path>
+				</File>
+				<File Id="197713898" Language="SFX">
+					<ShortName>SE\SE_Train_Door_Open.wav</ShortName>
+					<Path>SFX/SE/SE_Train_Door_Open_E047C70B.wem</Path>
+				</File>
+				<File Id="274420084" Language="SFX">
+					<ShortName>BG_cregit_SeaOfMemory_bpm76.wav</ShortName>
+					<Path>SFX/BG_cregit_SeaOfMemory_bpm76_2A9C5D13.wem</Path>
+				</File>
+				<File Id="505339229" Language="SFX">
+					<ShortName>BG_loop_SeaOfMemory_bpm76.wav</ShortName>
+					<Path>SFX/BG_loop_SeaOfMemory_bpm76_4811579D.wem</Path>
+				</File>
+				<File Id="684515566" Language="SFX">
+					<ShortName>BG_intro_SeaOfMemory_bpm76.wav</ShortName>
+					<Path>SFX/BG_intro_SeaOfMemory_bpm76_4811579D.wem</Path>
+				</File>
+				<File Id="687595571" Language="SFX">
+					<ShortName>Chapter3_SE_TrainIdle.wav</ShortName>
+					<Path>SFX/Chapter3_SE_TrainIdle_2A9C5D13.wem</Path>
+				</File>
+				<File Id="772362061" Language="SFX">
+					<ShortName>SE\SE_Train_Idling.wav</ShortName>
+					<Path>SFX/SE/SE_Train_Idling_935DC91E.wem</Path>
+				</File>
+				<File Id="821004297" Language="SFX">
+					<ShortName>BG_end_SeaOfMemory_bpm76.wav</ShortName>
+					<Path>SFX/BG_end_SeaOfMemory_bpm76_4811579D.wem</Path>
+				</File>
+				<File Id="851779573" Language="SFX">
+					<ShortName>ChapterAll_AN_Ocean.wav</ShortName>
+					<Path>SFX/ChapterAll_AN_Ocean_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

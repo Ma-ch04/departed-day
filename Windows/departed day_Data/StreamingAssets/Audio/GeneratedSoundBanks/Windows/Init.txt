@@ -1,0 +1,40 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2459163061	AmbientPlay			\Default Work Unit\AmbientPlay	
+	2796187137	TrainIdlePlay			\Default Work Unit\TrainIdlePlay	
+
+State	ID	Name	State Group			Notes
+	0	None	AmbientPlay			
+	930712164	OFF	AmbientPlay			
+	1651971902	ON	AmbientPlay			
+	0	None	TrainIdlePlay			
+	1373647823	IdleStop	TrainIdlePlay			
+	1750148546	Idling	TrainIdlePlay			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Ambience	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	1584861537	SE			\Default Work Unit\Master Audio Bus\SFX\SE	
+	2012559111	Motion			\Default Work Unit\Master Audio Bus\SFX\Motion	
+	2557777556	Main_Theme			\Default Work Unit\Master Audio Bus\Music\Main_Theme	
+	3412057565	Train			\Default Work Unit\Master Audio Bus\SFX\Train	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1685747766	LowPass			\Default Work Unit\Master Audio Bus\SFX\LowPass	
+
+Effect plug-ins	ID	Name	Type				Notes
+	121028746	Wwise Gain (Custom)	Wwise Gain			
+	263560321	Wwise Gain (Custom)	Wwise Gain			
+	264101865	Wwise Gain (Custom)	Wwise Gain			
+	274047597	Wwise Gain (Custom)	Wwise Gain			
+	299568492	Wwise Gain (Custom)	Wwise Gain			
+	498116943	Wwise Gain (Custom)	Wwise Gain			
+	548460844	Wwise Gain (Custom)	Wwise Gain			
+	992902880	Small_Tiled_Room1	Wwise Matrix Reverb			
+	1008402193	Low_Pass_20KHz	Wwise Parametric EQ			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

@@ -1,0 +1,45 @@
+Event	ID	Name			Wwise Object Path	Notes
+	412724365	BGM			\Default Work Unit\Music\BGM	
+	1639368407	TrainIdle			\Default Work Unit\Motion\TrainIdle	
+	3295294912	BGM_Final			\Default Work Unit\Music\BGM_Final	
+	3412057565	Train			\Default Work Unit\Motion\Train	
+	3802555985	Ocean			\Default Work Unit\Ambient\Ocean	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1926883983	Scene			\Default Work Unit\Scene	
+
+Switch	ID	Name	Switch Group			Notes
+	448493529	Cregit	Scene			
+	529726532	END	Scene			
+	691006007	Loop	Scene			
+	1062003645	TrainInside	Scene			
+	1651971872	OP	Scene			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2459163061	AmbientPlay			\Default Work Unit\AmbientPlay	
+	2796187137	TrainIdlePlay			\Default Work Unit\TrainIdlePlay	
+
+State	ID	Name	State Group			Notes
+	0	None	AmbientPlay			
+	930712164	OFF	AmbientPlay			
+	1651971902	ON	AmbientPlay			
+	0	None	TrainIdlePlay			
+	1373647823	IdleStop	TrainIdlePlay			
+	1750148546	Idling	TrainIdlePlay			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	255569009	IdleStop	TrainIdlePlay	\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_Train_Idle		
+	839753590	IdleStop	TrainIdlePlay	\Actor-Mixer Hierarchy\Default Work Unit\SE\TrainMotion\SE_Train_Idling		
+	951318351	OFF	AmbientPlay	\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Ocean		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	174893881	SE_Train_Stop	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\Chapter3_SE_Train_Stop_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\TrainMotion\SE_Train_Stop		226024
+	197713898	SE_Train_Door_Open	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\SE\SE_Train_Door_Open_E047C70B.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\TrainMotion\SE_Train_Door_Open		15728
+	274420084	BG_cregit_SeaOfMemory_bpm76	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\BG_cregit_SeaOfMemory_bpm76_2A9C5D13.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Music Switch Container\BG_Cregit\BG_cregit_SeaOfMemory_bpm76\BG_cregit_SeaOfMemory_bpm76		2228308
+	505339229	BG_loop_SeaOfMemory_bpm76	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\BG_loop_SeaOfMemory_bpm76_4811579D.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Music Switch Container\BG_Loop\BG_loop_SeaOfMemory_bpm76\BG_loop_SeaOfMemory_bpm76		1253584
+	684515566	BG_intro_SeaOfMemory_bpm76	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\BG_intro_SeaOfMemory_bpm76_4811579D.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Music Switch Container\BG_Intro\BG_intro_SeaOfMemory_bpm76\BG_intro_SeaOfMemory_bpm76		12447856
+	687595571	Idle	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\Chapter3_SE_TrainIdle_2A9C5D13.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Music Switch Container\IdleLoop\Idle\Idle		588044
+	772362061	SE_Train_Idle	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\SE\SE_Train_Idling_935DC91E.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_Train_Idle		51837
+	821004297	BG_end_SeaOfMemory_bpm76	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\BG_end_SeaOfMemory_bpm76_4811579D.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Music Switch Container\BG_End\BG_end_SeaOfMemory_bpm76\BG_end_SeaOfMemory_bpm76		438328
+	851779573	ChapterAll_AN_Ocean	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Mac\SFX\ChapterAll_AN_Ocean_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Ocean\ChapterAll_AN_Ocean		9757960
+

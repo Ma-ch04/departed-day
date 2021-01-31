@@ -1,0 +1,49 @@
+Event	ID	Name			Wwise Object Path	Notes
+	299065245	Typeshot			\Default Work Unit\Motion\Typeshot	
+	425528452	adPost			\Default Work Unit\Motion\adPost	
+	1425580747	Printer			\Default Work Unit\Motion\Printer	
+	1894362767	Foot_Player			\Default Work Unit\Player\Foot_Player	
+	2368844905	Enter			\Default Work Unit\Motion\Enter	
+	2902614501	Ticket			\Default Work Unit\Motion\Ticket	
+	2934282407	CompOn			\Default Work Unit\Motion\CompOn	
+	2970581085	Type			\Default Work Unit\Motion\Type	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	175143897	Concrete_Fast	Material			
+	841620460	Concrete	Material			
+	1062003645	TrainInside	Material			
+	2058049674	Wood	Material			
+	2373377839	Wood_Fast	Material			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	83130193	Concrete_Slow2	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow2_CF843444_C0BF6CB5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\TrainIn\Concrete_Slow2		9616
+	139774116	Wood_Slow1	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Wood_Slow1_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Wood\Wood_Slow1		5021
+	166582785	Concrete_Slow6	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow6_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Concrete\Concrete_Slow6		4921
+	281735376	SE_Printer_True	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE\SE_Printer_True_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_Printer_True		52840
+	377454097	SE_Comp_Typing	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE\SE_Comp_Typing_58C217D0.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_Comp_Typing		23853
+	413135420	SE_Comp_OneshotA	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE_Comp_OneshotA_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\Keyshot\SE_Comp_OneshotA		3141
+	437040072	SE_Comp_OneshotC	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE_Comp_OneshotC_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\Keyshot\SE_Comp_OneshotC		2517
+	445670231	Concrete_Slow4	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow4_CF843444_C0BF6CB5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\TrainIn\Concrete_Slow4		9657
+	467529610	Concrete_Slow4	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow4_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Concrete\Concrete_Slow4		5239
+	471168463	SE_Post	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE\SE_Post_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_Post		10561
+	493920584	SE_TicketGet	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE\SE_TicketGet_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_TicketGet		3539
+	550352083	Concrete_Slow6	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow6_CF843444_C0BF6CB5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\TrainIn\Concrete_Slow6		10433
+	551794831	Concrete_Slow5	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow5_CF843444_C0BF6CB5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\TrainIn\Concrete_Slow5		10494
+	619749920	Concrete_Slow3	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow3_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Concrete\Concrete_Slow3		4634
+	632861619	Wood_Slow6	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Wood_Slow6_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Wood\Wood_Slow6		7081
+	682854849	Wood_Slow4	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Wood_Slow4_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Wood\Wood_Slow4		6347
+	720509746	SE_Comp_Enter	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE_Comp_Enter_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_Comp_Enter		5124
+	804851681	Concrete_Slow2	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow2_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Concrete\Concrete_Slow2		4213
+	833780048	Wood_Slow5	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Wood_Slow5_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Wood\Wood_Slow5		5037
+	853454814	SE_Comp_Startup	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE\SE_Comp_Startup_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\SE_Comp_Startup		3670
+	913984714	Wood_Slow2	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Wood_Slow2_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Wood\Wood_Slow2		5346
+	919541374	Concrete_Slow1	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow1_CF843444_C0BF6CB5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\TrainIn\Concrete_Slow1		10779
+	932081669	Concrete_Slow5	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow5_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Concrete\Concrete_Slow5		4958
+	949212842	Concrete_Slow3	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow3_CF843444_C0BF6CB5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\TrainIn\Concrete_Slow3		10742
+	977721558	SE_Comp_OneshotB	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\SE_Comp_OneshotB_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SE\Keyshot\SE_Comp_OneshotB		3144
+	989679381	Concrete_Slow1	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Concrete\Concrete_Slow1_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Concrete\Concrete_Slow1		5227
+	1059325031	Wood_Slow3	Y:\Desktop\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\Footsteps\Wood\Wood_Slow3_CF843444.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps_Oneshot\Wood\Wood_Slow3		5350
+

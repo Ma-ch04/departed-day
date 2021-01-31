@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	412724365	BGM			\Default Work Unit\Music\BGM	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	146259882	BG_end_SeaOfMemory_bpm76	Y:\Documents\GitHub\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\BG_end_SeaOfMemory_bpm76_4811579D.wem		\Interactive Music Hierarchy\Default Work Unit\Music\SeaOfMemory\BG_end_SeaOfMemory_bpm76\BG_end_SeaOfMemory_bpm76		1638280
+	531711150	BG_intro_SeaOfMemory_bpm76	Y:\Documents\GitHub\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\BG_intro_SeaOfMemory_bpm76_4811579D.wem		\Interactive Music Hierarchy\Default Work Unit\Music\SeaOfMemory\BG_intro_SeaOfMemory_bpm76\BG_intro_SeaOfMemory_bpm76		9400312
+	945817819	BG_loop_SeaOfMemory_bpm76	Y:\Documents\GitHub\1116_deverop\Unity Game Project\Unity Game Project_WwiseProject\.cache\Windows\SFX\BG_loop_SeaOfMemory_bpm76_4811579D.wem		\Interactive Music Hierarchy\Default Work Unit\Music\SeaOfMemory\BG_loop_SeaOfMemory_bpm76\BG_loop_SeaOfMemory_bpm76		2506816
+

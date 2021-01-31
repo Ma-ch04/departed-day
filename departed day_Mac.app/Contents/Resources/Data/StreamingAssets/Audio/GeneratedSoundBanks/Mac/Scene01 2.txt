@@ -1,0 +1,5 @@
+Event	ID	Name			Wwise Object Path	Notes
+	324865570	S01_Ocean			\Default Work Unit\Ambient\S01_Ocean	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	954193208	Scene01_AN_Ocean	C:\Users\
